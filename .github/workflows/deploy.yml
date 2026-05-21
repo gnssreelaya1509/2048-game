@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Build Flet app
-        run: flet publish main.py
+        run: flet publish main.py --base-url /2048-game/
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

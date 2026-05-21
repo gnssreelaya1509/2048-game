@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="420f28fc-bf58-41c4-97b8-49e9345b6b29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/2048-game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/engine_2048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="420f28fc-bf58-41c4-97b8-49e9345b6b29" name="Changes" comment="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gnssreelaya1509"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gnssreelaya1509/2048-game.git",
+    "accountId": "2bff8dbd-0726-4e43-a796-93eb4bc24686"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -64,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1779345815857</updated>
     </task>
+    <task id="LOCAL-00001" summary="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1779347166195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779347166195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main" />
   </component>
 </project>
