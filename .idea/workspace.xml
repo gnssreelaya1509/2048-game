@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="420f28fc-bf58-41c4-97b8-49e9345b6b29" name="Changes" comment="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-    </list>
+    <list default="true" id="420f28fc-bf58-41c4-97b8-49e9345b6b29" name="Changes" comment="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +72,27 @@
       <option name="project" value="LOCAL" />
       <updated>1779347166195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1779348450887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779348450887</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init&#10;git add&#10;git commit -m &quot;initial upload of 2048 game&quot;&#10;git branch -M main&#10;git remote add origin https://github.com/gnssreelaya1509/2048-game.git&#10;git push -u origin main" />
